@@ -6,7 +6,12 @@ namespace Grundlagen_SAS__School_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Console.WriteLine();
+            double eingabe = Convert.ToDouble(Console.ReadLine());
+
+
+            Console.ReadKey();
         }
     }
 }

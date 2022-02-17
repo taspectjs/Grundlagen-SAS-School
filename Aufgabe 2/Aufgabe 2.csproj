@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Grundlagen_SAS__School_</RootNamespace>
+    <RootNamespace>Aufgabe_2</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Übun\" />
-  </ItemGroup>
 
 </Project>
