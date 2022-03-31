@@ -7,8 +7,14 @@ namespace Methoden_implementieren_und_aufrufen
         public static void Main()
         {
 
-            int anzahl = 0;
-            anzahl = ausgabeTextMalX("Die schule wird als GSO beschriben", 10);
+            Console.WriteLine("Welchen text möchtest du ausgeben?");
+            string ein = Console.ReadLine();
+
+            Console.WriteLine("Wie oft soll der text wiederholt werden?");
+            int anzahl = Convert.ToInt32(Console.ReadLine());
+
+            
+            anzahl = ausgabeTextMalX("{0}", 200);
             Console.Write("Der Text wurd: {0} wiederholt! " + anzahl);
         }
 

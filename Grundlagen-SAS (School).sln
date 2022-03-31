@@ -21,7 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bubelsorting", "Bubelsortin
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methoden implementieren und aufrufen 31.03.2022", "Methoden implementieren und aufrufen 31.03.2022", "{E4B7327A-6D40-4ADC-A188-4441C136134D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden implementieren und aufrufen", "Methoden implementieren und aufrufen\Methoden implementieren und aufrufen.csproj", "{06DA8914-EF20-4485-9CC3-E282A6927ABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methoden implementieren und aufrufen", "Methoden implementieren und aufrufen\Methoden implementieren und aufrufen.csproj", "{06DA8914-EF20-4485-9CC3-E282A6927ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden_implementieren Erweitert", "Methoden_implementieren Erweitert\Methoden_implementieren Erweitert.csproj", "{BED5883A-6A20-48DF-AB3D-2C955AD1B912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hotel Check", "Hotel Check", "{6045CA85-1585-4B76-AA12-6DDA515E8BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel Check", "Hotel Check\Hotel Check.csproj", "{5C677D08-852E-4B9E-B905-613A80FA5231}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +59,14 @@ Global
 		{06DA8914-EF20-4485-9CC3-E282A6927ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06DA8914-EF20-4485-9CC3-E282A6927ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06DA8914-EF20-4485-9CC3-E282A6927ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED5883A-6A20-48DF-AB3D-2C955AD1B912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED5883A-6A20-48DF-AB3D-2C955AD1B912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED5883A-6A20-48DF-AB3D-2C955AD1B912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED5883A-6A20-48DF-AB3D-2C955AD1B912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C677D08-852E-4B9E-B905-613A80FA5231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C677D08-852E-4B9E-B905-613A80FA5231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C677D08-852E-4B9E-B905-613A80FA5231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C677D08-852E-4B9E-B905-613A80FA5231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +78,8 @@ Global
 		{6FE0221F-C99B-40B3-BE6E-700E0EEEC95A} = {F64CD36F-FF91-4071-B9B2-2020C5696EBC}
 		{126EBF19-1998-497F-AC68-46C90A0BE45B} = {E205CD56-0C60-4669-A147-92450167FCC0}
 		{06DA8914-EF20-4485-9CC3-E282A6927ABB} = {E4B7327A-6D40-4ADC-A188-4441C136134D}
+		{BED5883A-6A20-48DF-AB3D-2C955AD1B912} = {E4B7327A-6D40-4ADC-A188-4441C136134D}
+		{5C677D08-852E-4B9E-B905-613A80FA5231} = {6045CA85-1585-4B76-AA12-6DDA515E8BB9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C333744-E2A3-468D-B585-4C630836E5F4}
