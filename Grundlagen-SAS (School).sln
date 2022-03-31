@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Klassen Noten Durschnitt", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bubelsort 16.03.2022", "Bubelsort 16.03.2022", "{E205CD56-0C60-4669-A147-92450167FCC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubelsorting", "Bubelsorting\Bubelsorting.csproj", "{126EBF19-1998-497F-AC68-46C90A0BE45B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bubelsorting", "Bubelsorting\Bubelsorting.csproj", "{126EBF19-1998-497F-AC68-46C90A0BE45B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methoden implementieren und aufrufen 31.03.2022", "Methoden implementieren und aufrufen 31.03.2022", "{E4B7327A-6D40-4ADC-A188-4441C136134D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden implementieren und aufrufen", "Methoden implementieren und aufrufen\Methoden implementieren und aufrufen.csproj", "{06DA8914-EF20-4485-9CC3-E282A6927ABB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,10 @@ Global
 		{126EBF19-1998-497F-AC68-46C90A0BE45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{126EBF19-1998-497F-AC68-46C90A0BE45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{126EBF19-1998-497F-AC68-46C90A0BE45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DA8914-EF20-4485-9CC3-E282A6927ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DA8914-EF20-4485-9CC3-E282A6927ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DA8914-EF20-4485-9CC3-E282A6927ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DA8914-EF20-4485-9CC3-E282A6927ABB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,7 @@ Global
 		{A01395C7-42EA-4D17-B639-E8B0D83F0C33} = {075336AB-9787-4BDD-8726-BBBD40AB2AF6}
 		{6FE0221F-C99B-40B3-BE6E-700E0EEEC95A} = {F64CD36F-FF91-4071-B9B2-2020C5696EBC}
 		{126EBF19-1998-497F-AC68-46C90A0BE45B} = {E205CD56-0C60-4669-A147-92450167FCC0}
+		{06DA8914-EF20-4485-9CC3-E282A6927ABB} = {E4B7327A-6D40-4ADC-A188-4441C136134D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C333744-E2A3-468D-B585-4C630836E5F4}
