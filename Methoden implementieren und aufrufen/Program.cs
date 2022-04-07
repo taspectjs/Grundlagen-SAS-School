@@ -8,7 +8,7 @@ namespace Methoden_implementieren_und_aufrufen
         {
 
             int anzahl = 0;
-            anzahl = ausgabeTextMalX("das ist sehr schwer", 10);
+            anzahl = ausgabeTextMalX("GSO = Georg Simon Ohm!", 10);
             Console.Write("Der Text wurd: {0} wiederholt! " + anzahl);
         }
 
@@ -20,7 +20,7 @@ namespace Methoden_implementieren_und_aufrufen
                 Console.WriteLine(text);
 
             }
-            return text.Length;
+            return text.Length*wiederholungen;
 
         }
     }
